@@ -19,7 +19,7 @@ const HeroItem = props => {
                                       alt=""
                                   />
                               </div>
-                              <div class="card-content">
+                              <div className="card-content">
                                   <p>{x.name}</p>
                               </div>
                           </div>
