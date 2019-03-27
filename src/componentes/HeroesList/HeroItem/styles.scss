@@ -1,0 +1,21 @@
+.card{
+    width: 190px;
+    margin: 1rem
+}
+
+.card .card-content p{
+    color: #333;
+    font-weight: bold;
+    font-size: .9rem;
+    line-height: 1rem;
+}
+
+.container-herois{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.card-content {
+    height: 80px;
+}
