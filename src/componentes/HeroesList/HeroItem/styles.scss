@@ -25,4 +25,12 @@
         width: 100%;
        
     }
+    .container-herois > div{
+        width: calc(100% - 28px);
+    }
+    nav .brand-logo {
+       font-size: 1rem;
+       left: unset;
+       transform: unset;
+    }
   }
